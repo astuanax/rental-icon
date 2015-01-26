@@ -714,14 +714,14 @@ code {
 }
 
 @font-face {
-  font-family: 'rental-icons';
-  src: url("fonts/rental-icons.eot?uqjufe");
-  src: url("fonts/rental-icons.eot?#iefixuqjufe") format("embedded-opentype"), url("fonts/rental-icons.woff?uqjufe") format("woff"), url("fonts/rental-icons.ttf?uqjufe") format("truetype"), url("fonts/rental-icons.svg?uqjufe#rental-icons") format("svg");
+  font-family: 'icomoon';
+  src: url("fonts/icomoon.eot?1izhjt");
+  src: url("fonts/icomoon.eot?#iefix1izhjt") format("embedded-opentype"), url("fonts/icomoon.woff?1izhjt") format("woff"), url("fonts/icomoon.ttf?1izhjt") format("truetype"), url("fonts/icomoon.svg?1izhjt#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 [class^="icon-"], [class*=" icon-"] {
-  font-family: 'rental-icons';
+  font-family: 'icomoon';
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -749,56 +749,12 @@ code {
   content: "\e600";
 }
 
-.icon-swimming-pool-indoor .path1:before {
+.icon-swiming-pool-indoor:before {
   content: "\e603";
-  color: black;
 }
 
-.icon-swimming-pool-indoor .path2:before {
-  content: "\e604";
-  margin-left: -1em;
-  color: black;
-}
-
-.icon-swimming-pool-indoor .path3:before {
-  content: "\e605";
-  margin-left: -1em;
-  color: #13110c;
-}
-
-.icon-swimming-pool-indoor .path4:before {
-  content: "\e606";
-  margin-left: -1em;
-  color: black;
-}
-
-.icon-swimming-pool-indoor .path5:before {
-  content: "\e607";
-  margin-left: -1em;
-  color: black;
-}
-
-.icon-swimming-pool .path1:before {
+.icon-swiming-pool:before {
   content: "\e608";
-  color: black;
-}
-
-.icon-swimming-pool .path2:before {
-  content: "\e609";
-  margin-left: -1em;
-  color: black;
-}
-
-.icon-swimming-pool .path3:before {
-  content: "\e60a";
-  margin-left: -1em;
-  color: #010101;
-}
-
-.icon-swimming-pool .path4:before {
-  content: "\e60b";
-  margin-left: -1em;
-  color: black;
 }
 
 .icon-equestrian:before {
