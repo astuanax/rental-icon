@@ -1,196 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Astuanax</title>
-    <description>Planning, Designing and Building websites since 1999</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Rental-Icon</title>
+    <description>The Icon Font for the rental industry</description>
+    <link>http://astuanax.github.io</link>
+    <atom:link href="http://astuanax.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>You&#39;re up and running!</title>
-        <description>&lt;div&gt;
-&lt;span class=&quot;icon-parking&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &amp;amp;#e601&lt;/span&gt;
+        <title>All the icons!</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-parking&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-&lt;span class=&quot;icon-parking-o&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mls&quot;&gt; icon-parking-o &amp;amp;#xe614;&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-parking-o&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-&lt;span class=&quot;icon-taxi&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mls&quot;&gt; icon-taxi &amp;amp;#xe602;&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-taxi&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-&lt;span class=&quot;icon-airport&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mls&quot;&gt; icon-airport &amp;amp;#xe600;&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-airport&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-&lt;span class=&quot;icon-swimming-pool-indoor&quot;&gt;&lt;span class=&quot;path1&quot;&gt;&lt;/span&gt;&lt;span class=&quot;path2&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mls&quot;&gt; icon-swimming-pool-indoor &amp;amp;#xe603;&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-swimming-pool-indoor&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-&lt;span class=&quot;icon-swimming-pool&quot;&gt;&lt;span class=&quot;path1&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mls&quot;&gt; icon-swimming-pool &amp;amp;#xe608;&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-swiming-pool&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-swimming-pool&quot;&gt;
-&lt;span class=&quot;path1&quot;&gt;&lt;/span&gt;&lt;span class=&quot;path2&quot;&gt;&lt;/span&gt;&lt;span class=&quot;path3&quot;&gt;&lt;/span&gt;&lt;span class=&quot;path4&quot;&gt;&lt;/span&gt;
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-swimming-pool&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-equestrian&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e608&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;amp;#xe608;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-bed&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-equestrian&quot;&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-equestrian&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-wifi&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
 &lt;/div&gt;
 
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e615&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe615;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-airco&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-bed&quot;&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-bed&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-bath&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e60c&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe60c;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-shower&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-wifi&quot;&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-wifi&lt;/span&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
+&lt;span class=&quot;icon-pets&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e60d&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe60d;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-airco&quot;&gt;
-&lt;span class=&quot;path1&quot;&gt;&lt;/span&gt;&lt;span class=&quot;path2&quot;&gt;&lt;/span&gt;&lt;span class=&quot;path3&quot;&gt;&lt;/span&gt;
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-airco&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e60e&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe60e;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-bath&quot;&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-bath&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e611&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe611;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-shower&quot;&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-shower&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e612&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe612;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;div class=&quot;glyph fs1&quot;&gt;
-&lt;div class=&quot;clearfix bshadow0 pbs&quot;&gt;
-&lt;span class=&quot;icon-pets&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/span&gt;
-&lt;span class=&quot;mls&quot;&gt; icon-pets&lt;/span&gt;
-&lt;/div&gt;
-&lt;fieldset class=&quot;fs0 size1of1 clearfix hidden-false&quot;&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;e613&quot; class=&quot;unit size1of2&quot; /&gt;
-&lt;input type=&quot;text&quot; maxlength=&quot;1&quot; readonly value=&quot;&amp;#xe613;&quot; class=&quot;unitRight size1of2 talign-right&quot; /&gt;
-&lt;/fieldset&gt;
-&lt;div class=&quot;fs0 bshadow0 clearfix hidden-true&quot;&gt;
-&lt;span class=&quot;unit pvs fgc1&quot;&gt;liga: &lt;/span&gt;
-&lt;input type=&quot;text&quot; readonly value=&quot;&quot; class=&quot;liga unitRight&quot; /&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Mar 2014 00:00:00 +0100</pubDate>
-        <link>/Hello-World/</link>
-        <guid isPermaLink="true">/Hello-World/</guid>
+        <link>http://astuanax.github.io/Hello-World/</link>
+        <guid isPermaLink="true">http://astuanax.github.io/Hello-World/</guid>
       </item>
     
   </channel>
