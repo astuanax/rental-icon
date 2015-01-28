@@ -1,0 +1,46 @@
+{
+  "checksum": {
+    "previous": "",
+    "current": "fec0bfddf285c29a58b1393dfc173f6d8256dd035f54911e9762cff605449835"
+  },
+  "fonts": [
+
+  ],
+  "glyphs": {
+    "bed": {
+      "source": "./bed.svg",
+      "codepoint": 61696
+    },
+    "bed-double": {
+      "source": "./bed-double.svg",
+      "codepoint": 61697
+    }
+  },
+  "options": {
+    "input": {
+      "vectors": ".",
+      "templates": "."
+    },
+    "output": {
+      "fonts": "fontcustom",
+      "css": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "config": false,
+    "templates": [
+      "css",
+      "preview"
+    ],
+    "font_name": "fontcustom",
+    "css_selector": ".icon-{{glyph}}",
+    "preprocessor_path": null,
+    "autowidth": false,
+    "no_hash": false,
+    "debug": false,
+    "force": false,
+    "quiet": false
+  },
+  "templates": [
+
+  ]
+}

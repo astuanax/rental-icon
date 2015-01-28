@@ -9,57 +9,35 @@
       <item>
         <title>All the icons!</title>
         <description>&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-parking&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;airbnb&quot;&gt;&lt;i class=&quot;icon icon_airbnb&quot;&gt;&lt;/i&gt; icon_airbnb&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-parking-o&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;airco&quot;&gt;&lt;i class=&quot;icon icon_airco&quot;&gt;&lt;/i&gt; icon_airco&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-taxi&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;airport&quot;&gt;&lt;i class=&quot;icon icon_airport&quot;&gt;&lt;/i&gt; icon_airport&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-airport&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;bath&quot;&gt;&lt;i class=&quot;icon icon_bath&quot;&gt;&lt;/i&gt; icon_bath&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-swimming-pool-indoor&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;bed&quot;&gt;&lt;i class=&quot;icon icon_bed&quot;&gt;&lt;/i&gt; icon_bed&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-swiming-pool&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;equestrian&quot;&gt;&lt;i class=&quot;icon icon_equestrian&quot;&gt;&lt;/i&gt; icon_equestrian&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-equestrian&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;parking-o&quot;&gt;&lt;i class=&quot;icon icon_parking-o&quot;&gt;&lt;/i&gt; icon_parking-o&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-bed&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;parking&quot;&gt;&lt;i class=&quot;icon icon_parking&quot;&gt;&lt;/i&gt; icon_parking&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-wifi&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking &lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;pets&quot;&gt;&lt;i class=&quot;icon icon_pets&quot;&gt;&lt;/i&gt; icon_pets&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-airco&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;shower&quot;&gt;&lt;i class=&quot;icon icon_shower&quot;&gt;&lt;/i&gt; icon_shower&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-bath&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;swiming-pool-indoor&quot;&gt;&lt;i class=&quot;icon icon_swiming-pool-indoor&quot;&gt;&lt;/i&gt; icon_swiming-pool-indoor&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-shower&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;swiming-pool&quot;&gt;&lt;i class=&quot;icon icon_swiming-pool&quot;&gt;&lt;/i&gt; icon_swiming-pool&lt;/div&gt;
 
-&lt;div class=&quot;col-md-3 col-sm-6&quot;&gt;
-&lt;span class=&quot;icon-pets&quot;&gt; &lt;/span&gt; &lt;span class=&quot;mls&quot;&gt; icon-parking&lt;/span&gt;
-&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;taxi&quot;&gt;&lt;i class=&quot;icon icon_taxi&quot;&gt;&lt;/i&gt; icon_taxi&lt;/div&gt;
+
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;tripadvisor&quot;&gt;&lt;i class=&quot;icon icon_tripadvisor&quot;&gt;&lt;/i&gt; icon_tripadvisor&lt;/div&gt;
+
+&lt;div class=&quot;col-md-3 col-sm-6&quot; data-name=&quot;wifi&quot;&gt;&lt;i class=&quot;icon icon_wifi&quot;&gt;&lt;/i&gt; icon_wifi&lt;/div&gt;
 
 &lt;p&gt;&lt;div&gt;&lt;/p&gt;
 </description>
