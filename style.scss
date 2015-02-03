@@ -17,7 +17,10 @@
 @import "responsive";
 @import "rental-icon";
 
-.ri{ margin-right: 5px; }
+.ri{ 
+    margin-right: 5px; }
 
+.ri-sm{ font-size: 8px;}
+.ri-md{ font-size: 24px;}
 .ri-lg,  .intro .ri{ font-size:32px;}
 
