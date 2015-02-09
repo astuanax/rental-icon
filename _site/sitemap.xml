@@ -2,24 +2,24 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://astuanax.github.io/rental-icon/</loc>
-    <lastmod>2015-04-02T00:00:00+02:00</lastmod>
+    <lastmod>2015-09-02T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://astuanax.github.io/404.html</loc>
-    <lastmod>2015-02-04T10:44:02+01:00</lastmod>
+    <lastmod>2015-02-09T11:14:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://astuanax.github.io/about/</loc>
-    <lastmod>2015-02-04T10:44:02+01:00</lastmod>
+    <lastmod>2015-02-09T11:14:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://astuanax.github.io/</loc>
-    <lastmod>2015-02-04T10:44:02+01:00</lastmod>
+    <lastmod>2015-02-09T11:14:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
