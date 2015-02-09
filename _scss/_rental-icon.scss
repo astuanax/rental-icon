@@ -4,12 +4,12 @@
 
 @font-face {
 	font-family:"rental-icon";
-	src:url("/rental-icon/fonts/rental-icon.eot?6a1ebdf0c183a4ef5ff0930a29a5bef4");
+	src:url("/rental-icon/fonts/rental-icon.eot?2604e6515602708f9327298969276684");
 	src:url("/rental-icon/fonts/rental-icon.eot?#iefix") format("embedded-opentype"),
-		url("/rental-icon/fonts/rental-icon.woff2?6a1ebdf0c183a4ef5ff0930a29a5bef4") format("woff2"),
-		url("/rental-icon/fonts/rental-icon.woff?6a1ebdf0c183a4ef5ff0930a29a5bef4") format("woff"),
-		url("/rental-icon/fonts/rental-icon.ttf?6a1ebdf0c183a4ef5ff0930a29a5bef4") format("truetype"),
-		url("/rental-icon/fonts/rental-icon.svg?6a1ebdf0c183a4ef5ff0930a29a5bef4#rental-icon") format("svg");
+		url("/rental-icon/fonts/rental-icon.woff2?2604e6515602708f9327298969276684") format("woff2"),
+		url("/rental-icon/fonts/rental-icon.woff?2604e6515602708f9327298969276684") format("woff"),
+		url("/rental-icon/fonts/rental-icon.ttf?2604e6515602708f9327298969276684") format("truetype"),
+		url("/rental-icon/fonts/rental-icon.svg?2604e6515602708f9327298969276684#rental-icon") format("svg");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -91,55 +91,67 @@
 
 
 
-.icon-parking-o:before {
+.icon-mastercard:before {
 	content:"\e609";
 }
 
 
 
-.icon-parking:before {
+.icon-parking-o:before {
 	content:"\e60a";
 }
 
 
 
-.icon-pets:before {
+.icon-parking:before {
 	content:"\e60b";
 }
 
 
 
-.icon-shower:before {
+.icon-pets:before {
 	content:"\e60c";
 }
 
 
 
-.icon-swimming-pool-indoor:before {
+.icon-shower:before {
 	content:"\e60d";
 }
 
 
 
-.icon-swimming-pool:before {
+.icon-swimming-pool-indoor:before {
 	content:"\e60e";
 }
 
 
 
-.icon-taxi:before {
+.icon-swimming-pool:before {
 	content:"\e60f";
 }
 
 
 
-.icon-tripadvisor:before {
+.icon-taxi:before {
 	content:"\e610";
 }
 
 
 
-.icon-wifi:before {
+.icon-tripadvisor:before {
 	content:"\e611";
+}
+
+
+
+.icon-visa:before {
+	content:"\e612";
+}
+
+
+
+.icon-wifi:before {
+	content:"\e613";
 }
 
