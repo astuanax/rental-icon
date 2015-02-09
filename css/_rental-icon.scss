@@ -4,12 +4,12 @@
 
 @font-face {
 	font-family:"rental-icon";
-	src:url("/build/fonts/rental-icon.eot?c445fa74842d7c6906cc8848dfbc1a3f");
-	src:url("/build/fonts/rental-icon.eot?#iefix") format("embedded-opentype"),
-		url("/build/fonts/rental-icon.woff2?c445fa74842d7c6906cc8848dfbc1a3f") format("woff2"),
-		url("/build/fonts/rental-icon.woff?c445fa74842d7c6906cc8848dfbc1a3f") format("woff"),
-		url("/build/fonts/rental-icon.ttf?c445fa74842d7c6906cc8848dfbc1a3f") format("truetype"),
-		url("/build/fonts/rental-icon.svg?c445fa74842d7c6906cc8848dfbc1a3f#rental-icon") format("svg");
+	src:url("/rental-icon/fonts/rental-icon.eot?6a1ebdf0c183a4ef5ff0930a29a5bef4");
+	src:url("/rental-icon/fonts/rental-icon.eot?#iefix") format("embedded-opentype"),
+		url("/rental-icon/fonts/rental-icon.woff2?6a1ebdf0c183a4ef5ff0930a29a5bef4") format("woff2"),
+		url("/rental-icon/fonts/rental-icon.woff?6a1ebdf0c183a4ef5ff0930a29a5bef4") format("woff"),
+		url("/rental-icon/fonts/rental-icon.ttf?6a1ebdf0c183a4ef5ff0930a29a5bef4") format("truetype"),
+		url("/rental-icon/fonts/rental-icon.svg?6a1ebdf0c183a4ef5ff0930a29a5bef4#rental-icon") format("svg");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -79,61 +79,67 @@
 
 
 
-.icon-homeaway:before {
+.icon-golf:before {
 	content:"\e607";
 }
 
 
 
-.icon-parking-o:before {
+.icon-homeaway:before {
 	content:"\e608";
 }
 
 
 
-.icon-parking:before {
+.icon-parking-o:before {
 	content:"\e609";
 }
 
 
 
-.icon-pets:before {
+.icon-parking:before {
 	content:"\e60a";
 }
 
 
 
-.icon-shower:before {
+.icon-pets:before {
 	content:"\e60b";
 }
 
 
 
-.icon-swimming-pool-indoor:before {
+.icon-shower:before {
 	content:"\e60c";
 }
 
 
 
-.icon-swimming-pool:before {
+.icon-swimming-pool-indoor:before {
 	content:"\e60d";
 }
 
 
 
-.icon-taxi:before {
+.icon-swimming-pool:before {
 	content:"\e60e";
 }
 
 
 
-.icon-tripadvisor:before {
+.icon-taxi:before {
 	content:"\e60f";
 }
 
 
 
-.icon-wifi:before {
+.icon-tripadvisor:before {
 	content:"\e610";
+}
+
+
+
+.icon-wifi:before {
+	content:"\e611";
 }
 
