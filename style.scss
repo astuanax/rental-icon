@@ -1,10 +1,5 @@
 ---
 ---
-
-
-
-
-
 /*   
  * Template Name: devAid - Responsive Website Template for developers
  * Version: 1.0
@@ -15,12 +10,8 @@
 @import "theme-default";
 @import "base";
 @import "responsive";
-@import "rental-icon";
 
-.ri{ 
-    margin-right: 5px; }
-
-.ri-sm{ font-size: 8px;}
-.ri-md{ font-size: 24px;}
-.ri-lg,  .intro .ri{ font-size:32px;}
-
+.features .icons{
+	padding-bottom:4em;
+	zoom: 1.5;
+}

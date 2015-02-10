@@ -1,0 +1,13 @@
+// Icon Sizes
+// -------------------------
+
+/* makes the font 33% larger relative to the icon container */
+.#{$ri-css-prefix}-lg {
+  font-size: (4em / 3);
+  line-height: (3em / 4);
+  vertical-align: -15%;
+}
+.#{$ri-css-prefix}-2x { font-size: 2em; }
+.#{$ri-css-prefix}-3x { font-size: 3em; }
+.#{$ri-css-prefix}-4x { font-size: 4em; }
+.#{$ri-css-prefix}-5x { font-size: 5em; }

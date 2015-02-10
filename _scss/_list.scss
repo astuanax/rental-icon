@@ -1,0 +1,19 @@
+// List Icons
+// -------------------------
+
+.#{$ri-css-prefix}-ul {
+  padding-left: 0;
+  margin-left: $ri-li-width;
+  list-style-type: none;
+  > li { position: relative; }
+}
+.#{$ri-css-prefix}-li {
+  position: absolute;
+  left: -$ri-li-width;
+  width: $ri-li-width;
+  top: (2em / 14);
+  text-align: center;
+  &.#{$ri-css-prefix}-lg {
+    left: -$ri-li-width + (4em / 14);
+  }
+}

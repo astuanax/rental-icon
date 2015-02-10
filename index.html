@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+        
  <header id="header" class="header">  
         <div class="container">            
             <h1 class="logo pull-left">
@@ -36,12 +36,11 @@ layout: default
         <div class="container text-center">
             <h2 class="title"><span class="ri icon-airco"></span> Rental-<span class="highlight">Icon</span></h2>
             <p class="intro">{{ site.description }} <br/>
-            <i class="icon icon-bed"></i>
-            <i class="icon icon-swiming-pool"></i>
-            <i class="icon icon-wifi"></i>
-            <i class="ri icon icon-airco"></i>
-            <i class="icon icon-taxi"></i>
-            
+                <i class="ri ri-lg ri-bed"></i>
+                <i class="ri ri-lg ri-swiming-pool"></i>
+                <i class="ri ri-lg ri-wifi"></i>
+                <i class="ri ri ri-lg ri-airco"></i>
+                <i class="ri ri-lg ri-taxi"></i>
             </p>
             <div class="btns">
                 <a class="btn btn-cta-secondary" href="https://github.com/{{ site.footer-links.github }}/archive/master.zip" target="_blank">Download</a>
@@ -114,7 +113,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">    
       
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1 class="title text-center"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.content }}

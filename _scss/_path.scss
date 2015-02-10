@@ -1,0 +1,15 @@
+/* FONT PATH
+ * -------------------------- */
+
+@font-face {
+  font-family: 'Rental-Icon';
+  src: url('#{$ri-font-path}/rental-icon.eot?v=#{$ri-version}');
+  src: url('#{$ri-font-path}/rental-icon.eot?#iefix&v=#{$ri-version}') format('embedded-opentype'),
+    url('#{$ri-font-path}/rental-icon.woff2?v=#{$ri-version}') format('woff2'),
+    url('#{$ri-font-path}/rental-icon.woff?v=#{$ri-version}') format('woff'),
+    url('#{$ri-font-path}/rental-icon.ttf?v=#{$ri-version}') format('truetype'),
+    url('#{$ri-font-path}/rental-icon.svg?v=#{$ri-version}#rentaliconregular') format('svg');
+//  src: url('#{$ri-font-path}/rental-icon.otf') format('opentype'); // used when developing fonts
+  font-weight: normal;
+  font-style: normal;
+}
