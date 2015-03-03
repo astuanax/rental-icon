@@ -7,35 +7,43 @@
     <atom:link href="http://astuanax.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Icons</title>
+        <title>All the icons!</title>
         <description>&lt;h3 class=&quot;title&quot;&gt;Brands&lt;/h3&gt;
 
-&lt;div class=&quot;icons row&quot;&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;airbnb&quot;&gt;&lt;i class=&quot;ri-md ri  ri-airbnb&quot;&gt;&lt;/i&gt; airbnb&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;bookingcom&quot;&gt;&lt;i class=&quot;ri-md ri  ri-bookingcom&quot;&gt;&lt;/i&gt; bookingcom&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;homeaway&quot;&gt;&lt;i class=&quot;ri-md ri  ri-homeaway&quot;&gt;&lt;/i&gt; homeaway&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;tripadvisor&quot;&gt;&lt;i class=&quot;ri-md ri  ri-tripadvisor&quot;&gt;&lt;/i&gt; tripadvisor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;icons row&quot;&gt;
+    &lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;airbnb&quot;&gt;&lt;i class=&quot;ri-md ri  ri-airbnb&quot;&gt;&lt;/i&gt; ri-airbnb&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;bookingcom&quot;&gt;&lt;i class=&quot;ri-md ri  ri-bookingcom&quot;&gt;&lt;/i&gt; ri-bookingcom&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;homeaway&quot;&gt;&lt;i class=&quot;ri-md ri  ri-homeaway&quot;&gt;&lt;/i&gt; ri-homeaway&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;tripadvisor&quot;&gt;&lt;i class=&quot;ri-md ri  ri-tripadvisor&quot;&gt;&lt;/i&gt; ri-tripadvisor&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;title&quot;&gt;Complex facilities&lt;/h3&gt;
 
-&lt;div class=&quot;icons row&quot;&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;parking-o&quot;&gt;&lt;i class=&quot;ri-md ri  ri-parking-o&quot;&gt;&lt;/i&gt; parking-o&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;parking&quot;&gt;&lt;i class=&quot;ri-md ri  ri-parking&quot;&gt;&lt;/i&gt; parking&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;icons row&quot;&gt;
+&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;baby-care&quot;&gt;&lt;i class=&quot;ri-md ri  ri-baby-care&quot;&gt;&lt;/i&gt; ri-baby-care&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;parking-o&quot;&gt;&lt;i class=&quot;ri-md ri  ri-parking-o&quot;&gt;&lt;/i&gt; ri-parking-o&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;parking&quot;&gt;&lt;i class=&quot;ri-md ri  ri-parking&quot;&gt;&lt;/i&gt; ri-parking&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;title&quot;&gt;Entertainment&lt;/h3&gt;
 
-&lt;div class=&quot;icons row&quot;&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;equestrian&quot;&gt;&lt;i class=&quot;ri-md ri  ri-equestrian&quot;&gt;&lt;/i&gt; equestrian&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;golf&quot;&gt;&lt;i class=&quot;ri-md ri  ri-golf&quot;&gt;&lt;/i&gt; golf&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;swimming-pool-indoor&quot;&gt;&lt;i class=&quot;ri-md ri  ri-swimming-pool-indoor&quot;&gt;&lt;/i&gt; swimming-pool-indoor&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;swimming-pool&quot;&gt;&lt;i class=&quot;ri-md ri  ri-swimming-pool&quot;&gt;&lt;/i&gt; swimming-pool&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;icons row&quot;&gt;
+&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;equestrian&quot;&gt;&lt;i class=&quot;ri-md ri  ri-equestrian&quot;&gt;&lt;/i&gt; ri-equestrian&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;golf&quot;&gt;&lt;i class=&quot;ri-md ri  ri-golf&quot;&gt;&lt;/i&gt; ri-golf&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;swimming-pool-indoor&quot;&gt;&lt;i class=&quot;ri-md ri  ri-swimming-pool-indoor&quot;&gt;&lt;/i&gt; ri-swimming-pool-indoor&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;swimming-pool&quot;&gt;&lt;i class=&quot;ri-md ri  ri-swimming-pool&quot;&gt;&lt;/i&gt; ri-swimming-pool&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;title&quot;&gt;Property facilities&lt;/h3&gt;
 
 &lt;div class=&quot;icons row&quot;&gt;
-&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;airco&quot;&gt;&lt;i class=&quot;ri-md ri  ri-airco&quot;&gt;&lt;/i&gt; airco&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;bath&quot;&gt;&lt;i class=&quot;ri-md ri  ri-bath&quot;&gt;&lt;/i&gt; bath&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;bed&quot;&gt;&lt;i class=&quot;ri-md ri  ri-bed&quot;&gt;&lt;/i&gt; bed&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;pets&quot;&gt;&lt;i class=&quot;ri-md ri  ri-pets&quot;&gt;&lt;/i&gt; pets&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;shower&quot;&gt;&lt;i class=&quot;ri-md ri  ri-shower&quot;&gt;&lt;/i&gt; shower&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;wifi&quot;&gt;&lt;i class=&quot;ri-md ri  ri-wifi&quot;&gt;&lt;/i&gt; wifi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;airco&quot;&gt;&lt;i class=&quot;ri-md ri  ri-airco&quot;&gt;&lt;/i&gt; ri-airco&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;bath&quot;&gt;&lt;i class=&quot;ri-md ri  ri-bath&quot;&gt;&lt;/i&gt; ri-bath&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;bed&quot;&gt;&lt;i class=&quot;ri-md ri  ri-bed&quot;&gt;&lt;/i&gt; ri-bed&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;pets&quot;&gt;&lt;i class=&quot;ri-md ri  ri-pets&quot;&gt;&lt;/i&gt; ri-pets&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;shower&quot;&gt;&lt;i class=&quot;ri-md ri  ri-shower&quot;&gt;&lt;/i&gt; ri-shower&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;wifi&quot;&gt;&lt;i class=&quot;ri-md ri  ri-wifi&quot;&gt;&lt;/i&gt; ri-wifi&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;title&quot;&gt;Transport &lt;/h3&gt;
 
 &lt;div class=&quot;icons row&quot;&gt;
-&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;airport&quot;&gt;&lt;i class=&quot;ri-md ri  ri-airport&quot;&gt;&lt;/i&gt; airport&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;taxi&quot;&gt;&lt;i class=&quot;ri-md ri  ri-taxi&quot;&gt;&lt;/i&gt; taxi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;airport&quot;&gt;&lt;i class=&quot;ri-md ri  ri-airport&quot;&gt;&lt;/i&gt; ri-airport&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;taxi&quot;&gt;&lt;i class=&quot;ri-md ri  ri-taxi&quot;&gt;&lt;/i&gt; ri-taxi&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;title&quot;&gt;Utility icons&lt;/h3&gt;
 
 &lt;div class=&quot;icons row&quot;&gt;
-&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;mastercard&quot;&gt;&lt;i class=&quot;ri-md ri  ri-mastercard&quot;&gt;&lt;/i&gt; mastercard&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;visa&quot;&gt;&lt;i class=&quot;ri-md ri  ri-visa&quot;&gt;&lt;/i&gt; visa&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;mastercard&quot;&gt;&lt;i class=&quot;ri-md ri  ri-mastercard&quot;&gt;&lt;/i&gt; ri-mastercard&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;visa&quot;&gt;&lt;i class=&quot;ri-md ri  ri-visa&quot;&gt;&lt;/i&gt; ri-visa&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Fri, 02 Oct 2015 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 +0100</pubDate>
         <link>http://astuanax.github.io/rental-icon/</link>
         <guid isPermaLink="true">http://astuanax.github.io/rental-icon/</guid>
       </item>
