@@ -1,0 +1,27 @@
+{
+  "name": "rental-icon",
+  "description": "Icon font for use in rental, travel and holiday websites and/or apps",
+  "main": "",
+  "authors": [
+    "Len Dierickx"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "rentals",
+    "holiday",
+    "facilities",
+    "icons",
+    "font",
+    "typeface"
+  ],
+  "homepage": "http://astuanax.github.io/rental-icon",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
