@@ -4,12 +4,12 @@
 
 @font-face {
 	font-family:"Rental Icon - Astuanax";
-	src:url("../fonts/rental-icon.eot?db35f1104c86191ccfe813ea23f8875e");
+	src:url("../fonts/rental-icon.eot?c7ec4cc6a47414b52e418ea5793d29af");
 	src:url("../fonts/rental-icon.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/rental-icon.woff2?db35f1104c86191ccfe813ea23f8875e") format("woff2"),
-		url("../fonts/rental-icon.woff?db35f1104c86191ccfe813ea23f8875e") format("woff"),
-		url("../fonts/rental-icon.ttf?db35f1104c86191ccfe813ea23f8875e") format("truetype"),
-		url("../fonts/rental-icon.svg?db35f1104c86191ccfe813ea23f8875e#rental-icon") format("svg");
+		url("../fonts/rental-icon.woff2?c7ec4cc6a47414b52e418ea5793d29af") format("woff2"),
+		url("../fonts/rental-icon.woff?c7ec4cc6a47414b52e418ea5793d29af") format("woff"),
+		url("../fonts/rental-icon.ttf?c7ec4cc6a47414b52e418ea5793d29af") format("truetype"),
+		url("../fonts/rental-icon.svg?c7ec4cc6a47414b52e418ea5793d29af#rental-icon") format("svg");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -108,103 +108,115 @@ li[class*=" ri-"].ri-large:before {
 
 
 
-.ri-parking-o:before {
+.ri-laundry:before {
 	content:"\f106";
 }
 
 
 
-.ri-parking:before {
+.ri-parking-o:before {
 	content:"\f107";
 }
 
 
 
-.ri-pooltable:before {
+.ri-parking:before {
 	content:"\f108";
 }
 
 
 
-.ri-equestrian:before {
+.ri-pooltable:before {
 	content:"\f109";
 }
 
 
 
-.ri-golf:before {
+.ri-reception:before {
 	content:"\f10a";
 }
 
 
 
-.ri-swimming-pool-indoor:before {
+.ri-equestrian:before {
 	content:"\f10b";
 }
 
 
 
-.ri-swimming-pool:before {
+.ri-golf:before {
 	content:"\f10c";
 }
 
 
 
-.ri-airco:before {
+.ri-swimming-pool-indoor:before {
 	content:"\f10d";
 }
 
 
 
-.ri-bath:before {
+.ri-swimming-pool:before {
 	content:"\f10e";
 }
 
 
 
-.ri-bed:before {
+.ri-airco:before {
 	content:"\f10f";
 }
 
 
 
-.ri-pets:before {
+.ri-bath:before {
 	content:"\f110";
 }
 
 
 
-.ri-shower:before {
+.ri-bed:before {
 	content:"\f111";
 }
 
 
 
-.ri-wifi:before {
+.ri-pets:before {
 	content:"\f112";
 }
 
 
 
-.ri-airport:before {
+.ri-shower:before {
 	content:"\f113";
 }
 
 
 
-.ri-taxi:before {
+.ri-wifi:before {
 	content:"\f114";
 }
 
 
 
-.ri-mastercard:before {
+.ri-airport:before {
 	content:"\f115";
 }
 
 
 
-.ri-visa:before {
+.ri-taxi:before {
 	content:"\f116";
+}
+
+
+
+.ri-mastercard:before {
+	content:"\f117";
+}
+
+
+
+.ri-visa:before {
+	content:"\f118";
 }
 
