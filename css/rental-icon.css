@@ -4,12 +4,12 @@
 
 @font-face {
 	font-family:"Rental Icon - Astuanax";
-	src:url("../fonts/rental-icon.eot?54765b4abe73dbb3d82d733ced22c86d");
+	src:url("../fonts/rental-icon.eot?d56a956dfa8a3a731cf34cb5d785ba7a");
 	src:url("../fonts/rental-icon.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/rental-icon.woff2?54765b4abe73dbb3d82d733ced22c86d") format("woff2"),
-		url("../fonts/rental-icon.woff?54765b4abe73dbb3d82d733ced22c86d") format("woff"),
-		url("../fonts/rental-icon.ttf?54765b4abe73dbb3d82d733ced22c86d") format("truetype"),
-		url("../fonts/rental-icon.svg?54765b4abe73dbb3d82d733ced22c86d#rental-icon") format("svg");
+		url("../fonts/rental-icon.woff2?d56a956dfa8a3a731cf34cb5d785ba7a") format("woff2"),
+		url("../fonts/rental-icon.woff?d56a956dfa8a3a731cf34cb5d785ba7a") format("woff"),
+		url("../fonts/rental-icon.ttf?d56a956dfa8a3a731cf34cb5d785ba7a") format("truetype"),
+		url("../fonts/rental-icon.svg?d56a956dfa8a3a731cf34cb5d785ba7a#rental-icon") format("svg");
 	font-weight:normal;
 	font-style:normal;
 }

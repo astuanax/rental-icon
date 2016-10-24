@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Mon Oct 24 09:44:26 2016
+Created by FontForge 20160407 at Mon Oct 24 09:53:49 2016
  By Len Dierickx
 </metadata>
 <defs>
@@ -15,7 +15,7 @@ Created by FontForge 20160407 at Mon Oct 24 09:44:26 2016
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.909091 -910 512.286 448.154"
+    bbox="-0.909091 -64 512.286 448.154"
     underline-thickness="25"
     underline-position="-76"
     unicode-range="U+F101-F119"
@@ -110,7 +110,7 @@ l-1 -71h220zM166 178q-1 -1 -2 -3h56v5q2 16 3 82v8l-34 -30z" />
 d="M171 226q0 -21 -15 -36t-36 -15t-36 15t-15 36t15 36t36 15t36 -15t15 -36zM171 175q74 67 136.5 68t135.5 -68h-272zM495 209q7 0 12 -5t5 -12v-17v-17v-33v-34v-34v-2v-16h-13q-2 -1 -4 -1t-4 1h-13v16v2q0 7 -5 12t-12 5h-410q-7 0 -12 -5t-5 -12v-2v-17h-34v17v2v34
 v34v33v102v17v17q0 7 5 12t12 5t12 -5t5 -12v-17v-17v-102q0 -6 5 -11t12 -5h410q7 0 12 5t5 11v17v17q0 7 5 12t12 5z" />
     <glyph glyph-name="minibar" unicode="&#xf112;" horiz-adv-x="410" 
-d="M188 -687v-129h62v-17h-142v17h62v129q-35 3 -59 29t-24 61q0 10 3 20h179q2 -10 2 -20q0 -35 -24 -61t-59 -29zM403 -500q7 0 7 -7v-396q0 -7 -7 -7h-19v410h19zM6 -500h352v-410h-352q-6 0 -6 7v396q0 7 6 7zM333 -884v358h-307v-358h307z" />
+d="M188 210v-129h62v-17h-142v17h62v129q-35 3 -59 29t-24 61q0 10 3 20h179q2 -10 2 -20q0 -23 -11 -43t-30 -32.5t-42 -14.5zM403 397q7 0 7 -7v-396q0 -7 -7 -7h-19v410h19zM6 397h352v-410h-352q-6 0 -6 7v396q0 7 6 7zM333 13v358h-307v-358h307z" />
     <glyph glyph-name="pets" unicode="&#xf113;" horiz-adv-x="500" 
 d="M496 252l-12 -17q-10 -14 -27 -13l-47 4q-7 1 -14 -3.5t-10 -10.5l-33 -81q-6 -16 -6 -33v-76q0 -7 -5 -12t-12 -5h-18q-7 0 -12 5t-5 12v76q0 7 -5 12t-12 5h-163q-7 0 -12 -5t-5 -12v-76q0 -7 -5 -12t-12 -5h-18q-7 0 -12 5t-5 12v76q0 17 4 34l16 68q4 16 -10 27
 l-48 36q-14 11 -6 19t23 1l39 -18q15 -7 32 -7l165 4q17 1 28 14l47 57q11 13 9 30l-2 25q-1 7 2.5 9t8.5 -3l17 -14q13 -11 29 -17l26 -10q15 -6 26 -20l44 -54q10 -13 0 -27z" />
