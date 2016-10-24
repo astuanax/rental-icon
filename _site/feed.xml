@@ -41,6 +41,7 @@
     &lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;pets&quot;&gt;&lt;i class=&quot;ri-md ri  ri-pets&quot;&gt;&lt;/i&gt; ri-pets&lt;/div&gt;&lt;/div&gt;
     &lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;shower&quot;&gt;&lt;i class=&quot;ri-md ri  ri-shower&quot;&gt;&lt;/i&gt; ri-shower&lt;/div&gt;&lt;/div&gt;
     &lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;wifi&quot;&gt;&lt;i class=&quot;ri-md ri  ri-wifi&quot;&gt;&lt;/i&gt; ri-wifi&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-md-3 col-md-4&quot;&gt;&lt;div class=&quot;icons__item&quot; data-name=&quot;minibar&quot;&gt;&lt;i class=&quot;ri-md ri  ri-minibar&quot;&gt;&lt;/i&gt; ri-minibar&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 class=&quot;title&quot;&gt;Transport &lt;/h3&gt;
 &lt;div class=&quot;icons row&quot;&gt;
